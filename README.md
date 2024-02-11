@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">I'm a Full Stack Web and App Developer | Passionate about Crafting Innovative Solutions</h3>
-<img align="right" alt="coding" width="500px" scr="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611c0i3nb3rlwigc3uxwywbyzmo1dqfbz9ebzwwb701&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" alt="coding" width="500px" scr="https://i.giphy.com/Dh5q0sShxgp13DwrvG.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamahir&label=Profile%20views&color=0e75b6&style=flat" alt="shivamahir" /> </p>
 
