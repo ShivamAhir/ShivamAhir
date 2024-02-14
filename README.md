@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamahir&label=Profile%20views&color=0e75b6&style=flat" alt="shivamahir" /> </p>
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 Seeking **Opportunities** to Contribute to **Open Source Projects**
 
 - 📫 How to reach me **11shivam00@gmail.com**
 
