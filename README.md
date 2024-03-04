@@ -1,4 +1,4 @@
-<Img align="center" alt="good-weather" src="https://i.pinimg.com/originals/97/8c/ca/978ccae1ba3926c79720e9f59435c1dc.gif" width="100%" />
+<Img align="center" alt="good-weather" src="https://i.pinimg.com/originals/97/8c/ca/978ccae1ba3926c79720e9f59435c1dc.gif" width="100%" height="300px" />
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">I'm a Full Stack Web and App Developer | Passionate about Crafting Innovative Solutions</h3>
 <img align="right" alt="coding" width="400px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
