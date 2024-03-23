@@ -1,4 +1,4 @@
-<Img align="center" alt="good-weather" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fbirds-flying-gifs&psig=AOvVaw3pYyH_CCceMJ_1c52g3Xay&ust=1711308627563000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj1yMiPi4UDFQAAAAAdAAAAABAR" width="100%" height="300px" />
+<Img align="center" alt="good-weather" src="https://media1.tenor.com/m/1uQ98J2DR1gAAAAC/flying-national-geographic.gif" width="100%" height="300px" />
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">I'm a Full Stack Web and App Developer | Passionate about Crafting Innovative Solutions</h3>
 <img align="right" alt="coding" width="400px" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
